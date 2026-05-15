@@ -15,10 +15,10 @@ Create, edit, and manage your daily notes with a smooth and clean user experienc
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/appIcon.jpeg" width="250"/>
-  <img src="screenshots/homepage.jpeg" width="250"/>
-  <img src="screenshots/addnote.jpeg" width="250"/>
-  <img src="screenshots/updatenote.jpeg" width="250"/>
+  <img src="screenshots/appIcon.jpeg" width="200"/>
+  <img src="screenshots/homepage.jpeg" width="200"/>
+  <img src="screenshots/addnote.jpeg" width="200"/>
+  <img src="screenshots/updatenote.jpeg" width="200"/>
 </p>
 
 
