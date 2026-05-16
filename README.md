@@ -24,10 +24,10 @@ Create, edit, and manage your daily notes with a smooth and clean user experienc
 
 ## 🚀 Tech Stack
 
-Technology:
-Flutter
-Dart 
-SQLite
+**Technology:**
+- Flutter
+- Dart
+- SQLite
 
 
 ## 📂 Project Structure
